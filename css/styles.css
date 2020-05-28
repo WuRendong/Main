@@ -29,6 +29,18 @@ html, body {
     letter-spacing: -.03em;
 }
 
+#busuanzi_container_site_pv {
+    padding-bottom: 15px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 5px;
+    width: 100%;
+    text-align: center;
+}
+
 img {
     display: inline-block;
     width: 100px;
